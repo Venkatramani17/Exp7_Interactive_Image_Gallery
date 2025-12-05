@@ -1,4 +1,4 @@
-# Ex.08 Design of Interactive Image Gallery
+# Ex.07 Design of Interactive Image Gallery
 ## Date:
 
 ## AIM:
@@ -25,7 +25,9 @@ Validate the HTML and CSS code.
 Publish the website in the given URL.
 
 ## PROGRAM :
-
+```
+INCLUDE YOUR PROGRAM HERE
+```
 ## OUTPUT:
 
 ## RESULT:

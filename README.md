@@ -84,10 +84,10 @@ Publish the website in the given URL.
 </div> 
 <script> 
 const images = [ 
-{ src: "sundar.jp", caption: "Caption for Image 1" }, 
-{ src: "tata.jpg", caption: "Caption for Image 2" }, 
-{ src: "bill.jpg", caption: "Caption for Image 3" }, 
-{ src: "elon1.jpg", caption: "Caption for Image 4" } 
+{ src: "sundar.jp", caption: "Sundar Pichai is the CEO of both Google and its parent company, Alphabet Inc. " }, 
+{ src: "tata.jpg", caption: "Ratan Tata is the former chairman of Tata Sons, known for expanding the Tata Group globally and his philanthropy in India." }, 
+{ src: "bill.jpg", caption: "Bill Gates is the co-founder of Microsoft" }, 
+{ src: "elon1.jpg", caption: "Elon Musk is the CEO of Tesla and SpaceX" } 
 ]; 
 let currentIndex = 0; 
 function updateGallery( )  
